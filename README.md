@@ -1,4 +1,4 @@
-# 安装说明
+# 安装说明 (patchelf，可以修改程序依赖的libc版本)
 
 只是安装了patchelf跟移动脚本到$PATH下，方便bash直接使用
 
